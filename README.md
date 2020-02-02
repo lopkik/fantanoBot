@@ -18,6 +18,13 @@ what do we need to extrapolate (to train model):
     ~~album genre (spotify data)~~
     avg audio features of the album (danceability, energy, etc)
 
+suggestions:
+    -right now model seems to only gravitate towards range of 4-7 instead of 1-10
+        -incorporate genre bias
+        -popularity normalization (from AI guys, incorporate popularity by dividing some stat or something like that lol)
+        -only use the most popular songs on the album(?) [just not all of them lol]
+    -find a way to get result stats (find the std dev to test model further)
+
 # MAKING THIS WORK:
 -input for the album (show search results from spotify and the user can pick)
     - extrapolate the information the model needs (genre, audio features [from each track])
