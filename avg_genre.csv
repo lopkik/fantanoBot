@@ -1,0 +1,799 @@
+Genre,TotalScore,Album Count
+hip hop,1657,270
+philly rap,34,7
+pop rap,915,174
+rap,1599,281
+southern hip hop,743,127
+trap,798,144
+art pop,1534,236
+austrian pop,19,3
+melancholia,241,37
+vienna indie,19,3
+alternative hip hop,1011,146
+east coast hip hop,173,27
+emo rap,73,16
+miami hip hop,99,18
+underground hip hop,861,139
+indie pop,1209,194
+modern alternative rock,53,9
+modern rock,916,157
+nu gaze,625,100
+pop,554,98
+rock,732,126
+escape room,1333,191
+experimental hip hop,258,35
+fluxwork,200,29
+hyperpop,190,27
+permanent wave,306,53
+piano rock,52,8
+post-grunge,186,33
+melodic rap,160,32
+nyc rap,24,4
+queens hip hop,59,10
+lgbtq+ hip hop,74,12
+anti-folk,286,41
+folk punk,68,10
+lo-fi,675,102
+alternative rock,1012,161
+chamber pop,1213,183
+dream pop,688,102
+freak folk,1373,202
+indie folk,588,89
+indie rock,1816,287
+modern folk rock,67,10
+post-rock,389,57
+singer-songwriter,398,59
+slow core,433,62
+stomp and holler,403,62
+atl hip hop,304,55
+dirty south rap,94,15
+gangster rap,325,53
+new orleans rap,29,6
+boom bap,91,13
+hardcore hip hop,153,23
+west coast rap,61,8
+dance pop,374,62
+r&b en espanol,16,2
+conscious hip hop,433,68
+art rock,282,40
+chamber psych,514,73
+collage pop,64,9
+electra,71,10
+experimental pop,980,151
+la indie,73,12
+noise pop,1261,191
+experimental rock,569,79
+mathcore,163,23
+noise rock,547,81
+post-hardcore,212,31
+rhode island indie,30,4
+dark jazz,166,23
+experimental,284,40
+industrial,109,16
+industrial rock,129,19
+martial industrial,8,1
+neofolk,8,1
+neo-psychedelic,395,59
+philly indie,113,18
+alternative r&b,262,41
+viral pop,11,2
+contemporary country,28,5
+country,17,3
+country dawn,10,2
+country road,17,3
+modern country rock,6,1
+abstract hip hop,141,21
+chicago rap,190,31
+doom metal,158,23
+drone metal,271,40
+groove metal,139,21
+post-doom metal,417,60
+post-metal,382,55
+psychedelic doom,89,13
+sludge metal,284,42
+stoner metal,203,30
+stoner rock,181,26
+instrumental rock,15,2
+dark trap,111,17
+vapor trap,81,16
+voidgaze,151,21
+black metal,141,21
+death metal,222,33
+metal,167,27
+polish black metal,16,2
+polish death metal,16,2
+polish metal,16,2
+ambient folk,41,6
+new weird america,111,15
+dmv rap,45,9
+future funk,40,6
+ambient,164,24
+canadian experimental,28,4
+compositional ambient,168,26
+drift,35,5
+drone,106,16
+dub techno,70,10
+electronica,632,94
+fourth world,90,13
+intelligent dance music,255,37
+microhouse,241,35
+outsider house,120,18
+vaporwave,111,16
+warm drone,55,8
+indie r&b,183,30
+indie soul,362,55
+neo r&b,12,2
+irish singer-songwriter,6,1
+milwaukee hip hop,42,6
+boy band,32,4
+boston rock,40,6
+dance-punk,720,118
+britpop,55,9
+shoegaze,218,32
+uk experimental electronic,83,12
+hawaiian hip hop,3,1
+chillwave,763,123
+indietronica,1104,181
+alternative metal,232,41
+canadian ccm,13,2
+canadian metal,55,8
+canadian rock,41,7
+christian alternative rock,16,3
+christian rock,13,2
+nu metal,123,22
+rap metal,37,7
+rap rock,18,3
+bristol indie,17,2
+english indie rock,44,6
+funk,69,10
+p funk,13,2
+soul,68,10
+detroit hip hop,98,16
+g funk,25,5
+alternative dance,821,134
+garage rock,670,111
+new rave,973,158
+electropop,553,90
+metropopolis,294,50
+bay area indie,106,15
+garage pop,100,15
+garage psych,399,60
+indie garage rock,239,36
+psychedelic punk,33,5
+punk blues,168,27
+la pop,8,1
+post-teen pop,111,20
+brooklyn indie,212,33
+atl trap,53,10
+wonky,330,49
+london indie,8,1
+hip pop,32,5
+avant-garde black metal,53,7
+chaotic black metal,115,16
+post-black metal,51,8
+technical black metal,95,13
+voidgrind,23,3
+pittsburgh rap,31,6
+cali rap,31,5
+abstractro,31,5
+hauntology,102,15
+rochester ny indie,11,2
+east anglia indie,7,1
+drill,59,9
+french shoegaze,19,4
+shiver pop,31,5
+baltimore indie,74,12
+atmospheric black metal,211,32
+blackgaze,102,15
+usbm,131,19
+baroque pop,207,33
+uk alternative pop,45,7
+avant-garde metal,98,15
+swiss metal,8,1
+r&b,91,14
+urban contemporary,54,10
+deep pop r&b,10,2
+metallic hardcore,23,4
+contemporary jazz,63,9
+indie jazz,83,12
+jazz saxophone,15,2
+canadian hip hop,67,12
+canadian pop,103,18
+toronto rap,41,9
+cyberpunk,27,4
+electronic rock,68,10
+industrial metal,49,8
+trap queen,43,7
+bedroom soul,21,3
+lo-fi beats,16,2
+folktronica,61,9
+indie punk,388,58
+nc hip hop,48,8
+florida rap,49,8
+indonesian r&b,7,1
+k-pop,18,3
+k-pop boy group,6,1
+korean experimental,6,1
+denton tx indie,52,8
+australian indie,72,12
+melbourne indie,27,4
+neo soul,95,13
+sheffield indie,13,3
+modern dream pop,105,16
+grime,31,5
+house,48,7
+uk dancehall,13,2
+uk hip hop,19,3
+ambient techno,34,5
+float house,56,8
+minimal techno,78,11
+tech house,27,4
+bergen indie,7,1
+nz pop,14,2
+autonomous black metal,76,12
+bosnian electronic,20,3
+kentucky metal,20,3
+pagan black metal,193,29
+dfw rap,7,1
+environmental,8,1
+alternative emo,209,33
+emo,256,42
+kiwi rock,25,4
+portland hip hop,30,5
+alternative country,52,8
+country rock,27,4
+folk,30,5
+folk rock,32,5
+mellow gold,18,3
+new americana,64,10
+roots rock,71,11
+traditional folk,18,3
+british jazz,26,4
+progressive jazz fusion,21,3
+colombian pop,8,1
+texas country,16,3
+canadian contemporary r&b,46,8
+calgary indie,13,2
+canadian indie,112,19
+canadian punk,30,5
+blues rock,100,16
+modern blues rock,79,13
+washington indie,51,8
+japanoise,16,2
+atmospheric sludge,27,4
+gaian doom,97,14
+vancouver metal,7,1
+album rock,53,8
+birmingham metal,23,3
+hard rock,59,10
+power metal,13,2
+ninja,81,12
+scottish hip hop,48,7
+latin,33,6
+latin alternative,8,1
+latin pop,8,1
+mexican pop,8,1
+rock en espanol,8,1
+veracruz indie,8,1
+art punk,63,10
+dance rock,100,16
+gothenburg indie,60,9
+new jersey indie,77,13
+hardcore punk,23,5
+riot grrrl,28,4
+quebec indie,51,8
+cuban alternative,15,2
+cuban rumba,8,1
+jazz cubano,8,1
+latin jazz,8,1
+swedish metal,44,7
+anthem emo,25,5
+midwest emo,72,12
+pop punk,93,16
+indonesian hip hop,6,1
+australian black metal,14,2
+australian metal,14,2
+lovecraftian metal,14,2
+one-person band,20,3
+swedish americana,50,7
+swedish country,14,2
+australian psych,69,10
+modern power pop,83,12
+candy pop,36,6
+tropical house,53,8
+outlaw country,28,4
+experimental jazz,14,2
+noise,19,3
+power electronics,14,2
+etherpop,67,10
+progressive post-hardcore,54,9
+screamo,102,17
+icelandic experimental,20,3
+icelandic pop,34,5
+trip hop,90,13
+classic soul,14,2
+retro soul,8,1
+southern soul,14,2
+vocal jazz,8,1
+vancouver indie,54,8
+birmingham grime,12,2
+instrumental grime,18,3
+uk pop,19,4
+boston hardcore,41,6
+chaotic hardcore,189,28
+melodic hardcore,117,18
+metalcore,21,4
+pop rock,86,13
+swedish electropop,57,9
+swedish synth,5,1
+swedish synthpop,51,8
+emo punk,25,4
+small room,30,5
+latin viral pop,8,2
+rap latina,8,2
+reggaeton,25,5
+wrestling,8,2
+ambient black metal,30,5
+edm,40,7
+sacramento indie,56,9
+canadian post-rock,19,3
+instrumental post-rock,41,7
+danish metal,12,2
+rune folk,12,2
+hardvapour,7,1
+australian alternative rock,31,4
+toronto indie,35,5
+grave wave,95,15
+neo-synthpop,159,28
+witch house,26,4
+deep house,13,2
+palm desert scene,15,2
+shimmer pop,250,44
+experimental folk,8,1
+experimental psych,15,2
+newcastle indie,8,1
+breakcore,7,1
+drill and bass,47,7
+french metal,20,3
+avant-rock,14,2
+atlanta indie,56,8
+dub metal,15,2
+math rock,110,16
+noise punk,45,6
+brutal death metal,65,9
+deathgrind,84,12
+technical death metal,63,9
+deep underground hip hop,16,3
+bassline,6,1
+seattle indie,42,5
+new french touch,15,2
+vapor soul,14,2
+21st century classical,17,3
+american 21st century classical,10,2
+indie surf,111,20
+popgaze,49,7
+classic rock,56,9
+progressive rock,30,5
+symphonic rock,24,4
+bass music,211,32
+vapor house,8,1
+pixie,8,2
+pop emo,7,1
+reading indie,4,1
+powerviolence,54,8
+edmonton indie,35,6
+soundtrack,29,4
+aussie emo,5,1
+australian garage punk,25,4
+trap soul,39,7
+latin hip hop,17,3
+trap latino,17,3
+tropical,17,3
+progressive metal,54,10
+progressive sludge,58,9
+afro psych,15,2
+afro-funk,15,2
+chicha,16,2
+cumbia,16,2
+folclor afrocolombiano,16,2
+latin afrobeat,31,4
+nu-cumbia,16,2
+epic doom,21,3
+crossover thrash,57,9
+new wave of thrash metal,36,5
+speed metal,70,10
+thrash metal,62,9
+austindie,21,3
+british folk,19,3
+british singer-songwriter,19,3
+mandible,23,4
+nottingham indie,21,3
+swedish indie pop,38,6
+swedish singer-songwriter,51,7
+twee pop,61,9
+virginia metal,15,3
+virginia punk,6,1
+sound art,7,1
+okc indie,11,2
+psychedelic rock,57,10
+downtempo,136,22
+uk alternative hip hop,15,3
+brighton indie,39,6
+old school thrash,11,2
+disco house,31,5
+electro house,37,7
+filter house,79,12
+jazz rap,22,3
+danish alternative rock,43,6
+dutch indie rock,15,2
+goregrind,50,7
+grindcore,60,9
+singaporean metal,15,2
+funk metal,20,4
+omaha indie,13,2
+american metalcore,15,2
+new jersey punk,15,2
+bitpop,29,5
+diy emo,8,1
+punk,69,14
+belgian black metal,4,1
+belgian metal,4,1
+blackened hardcore,4,1
+neo-crust,11,2
+indie poptimism,28,5
+lilith,29,5
+eau claire indie,11,2
+atmospheric post-metal,15,2
+chicago indie,40,6
+gauze pop,6,1
+athens indie,31,5
+e6fi,44,7
+alternative americana,38,6
+acoustic punk,18,3
+digital hardcore,15,3
+nintendocore,30,5
+ska punk,8,2
+skate punk,32,7
+synth punk,21,3
+underground rap,63,9
+canadian modern jazz,31,4
+australian dance,31,5
+big beat,26,4
+funk rock,16,3
+no wave,66,9
+post-punk,108,16
+lo star,8,1
+australian electropop,20,4
+canadian pop punk,6,1
+finnish metal,8,1
+folk metal,14,2
+greek metal,8,1
+melodic death metal,8,1
+symphonic black metal,56,9
+viking metal,22,3
+black 'n' roll,47,7
+black thrash,67,10
+norwegian metal,55,9
+norwegian rock,28,4
+transpop,6,1
+jazz metal,66,10
+quebec death metal,16,2
+progressive thrash,16,2
+technical thrash,22,3
+oxford indie,41,7
+nashville singer-songwriter,8,1
+alt-idol,6,1
+comic metal,6,1
+idol rock,6,1
+j-metal,6,1
+kawaii metal,6,1
+american post-rock,22,4
+cinematic post-rock,9,2
+iranian experimental,14,2
+canadian psychedelic rock,13,2
+space rock,51,8
+bass trap,6,1
+brostep,23,4
+electronic trap,32,5
+vapor twitch,77,12
+glam rock,30,4
+protopunk,25,4
+cosmic black metal,13,2
+finnish black metal,13,2
+finnish psychedelic rock,13,2
+sci-fi metal,26,4
+sudanese pop,5,1
+comic,29,5
+glitch,101,15
+queercore,8,1
+baton rouge rap,7,1
+heartland rock,23,4
+barbadian pop,4,1
+quiet storm,12,2
+colombian rock,7,1
+latintronica,7,1
+phonk,18,3
+contemporary post-bop,15,2
+cool jazz,15,2
+jazz,15,2
+jazz fusion,15,2
+jazz trumpet,7,1
+new orleans jazz,7,1
+orgcore,29,5
+indie pop rap,13,3
+british soul,26,4
+canadian electropop,22,4
+stl indie,3,1
+hardcore,3,1
+harp,8,1
+madchester,18,3
+new romantic,18,3
+new wave,37,7
+new wave pop,19,3
+synthpop,18,3
+uk post-punk,20,3
+channel pop,6,1
+skramz,22,3
+uk dance,13,2
+san diego indie,18,3
+new jersey rap,5,1
+instrumental math rock,26,4
+modern southern rock,7,1
+roots americana,7,1
+nwobhm,12,2
+popping,7,1
+footwork,39,6
+ghettotech,7,1
+breakbeat,7,1
+rave,7,1
+swedish hardcore,4,1
+swedish post-hardcore,4,1
+vegan straight edge,4,1
+battle rap,12,2
+neo mellow,12,3
+canadian hardcore,20,3
+canadian post-hardcore,15,2
+sludgecore,15,2
+dreamo,15,3
+scottish electronic,28,5
+future garage,117,18
+laboratorio,14,2
+tzadik,19,3
+australian r&b,5,1
+albany ny indie,7,1
+bow pop,28,4
+alabama rap,8,2
+alabama indie,8,1
+abstract,25,4
+electro,45,7
+derby indie,5,1
+jazz quartet,11,2
+new tribe,11,2
+nu jazz,32,5
+experimental black metal,30,4
+depressive black metal,19,3
+boston indie,14,2
+harlem hip hop,5,1
+soul flow,26,4
+romanian metal,5,1
+slavic metal,5,1
+avant-garde jazz,27,4
+free improvisation,14,2
+free jazz,14,2
+classic soundtrack,7,1
+horror synth,7,1
+chicano punk,14,2
+scottish indie,12,2
+scottish rock,12,2
+alternative pop,26,4
+olympia wa indie,7,1
+minnesota hip hop,10,2
+show tunes,6,1
+new isolationism,19,3
+techno,27,4
+bmore,7,2
+hip house,5,1
+modern hard rock,5,1
+uk doom metal,17,3
+glitch hop,59,9
+jazztronica,44,6
+chicago punk,6,1
+gbvfi,44,7
+zolo,17,3
+vermont indie,13,2
+dubstep,36,6
+big room,12,2
+complextro,17,3
+moombahton,5,1
+progressive electro house,5,1
+j-idol,27,4
+brutal deathcore,4,1
+djent,26,5
+technical brutal death metal,11,2
+technical deathcore,9,2
+antiviral pop,7,1
+comedy rock,7,1
+parody,7,1
+canadian electronic,7,1
+progressive house,7,1
+australian pop,13,2
+norwegian black metal,34,6
+icelandic classical,5,1
+louisiana metal,13,2
+nu disco,53,8
+swedish pop,6,1
+black sludge,6,1
+turntablism,7,1
+canadian black metal,8,1
+chicago drill,11,2
+mathgrind,8,1
+balearic,14,2
+norwegian space disco,6,1
+cleveland indie,20,3
+leeds indie,14,2
+grand rapids indie,15,2
+british black metal,13,2
+dutch black metal,14,2
+british post-rock,22,3
+cosmic post-rock,22,3
+gainesville indie,5,1
+focus,7,1
+neo-classical,14,2
+neoclassical,7,1
+ebm,7,1
+electro-industrial,7,1
+uk noise rock,8,1
+destroy techno,5,1
+norwegian alternative rock,6,1
+experimental indie,13,2
+blackened crust,18,3
+ethereal wave,13,2
+icelandic rock,13,2
+nordic post-rock,13,2
+portland metal,22,3
+deathcore,22,4
+melodic deathcore,13,2
+progressive deathcore,13,2
+slamming deathcore,13,2
+deep gothic post-punk,13,2
+grunge,25,4
+straight edge,7,1
+uk garage,5,1
+electrofox,6,1
+chiptune,6,1
+indie game soundtrack,6,1
+irish metal,9,1
+norwegian experimental,7,1
+swedish indie rock,14,2
+melodic metalcore,16,4
+uk metalcore,4,1
+electroclash,21,4
+belgian experimental,7,1
+dreamgaze,7,1
+deep idm,13,2
+norwegian death metal,11,2
+experimental ambient,7,1
+jersey club,8,1
+vogue,8,1
+western mass indie,6,1
+deep indie rock,8,1
+british math rock,7,1
+slayer,5,1
+swedish doom metal,5,1
+american choir,7,1
+choral,7,1
+modern performance,7,1
+vocal ensemble,7,1
+classic uk pop,7,1
+wu fam,6,1
+dc hardcore,3,1
+nyhc,3,1
+dc indie,8,1
+action rock,7,1
+swedish psychedelic rock,5,1
+minimal,14,2
+dark post-punk,4,1
+jazz trio,8,1
+modern jazz trio,8,1
+danish indie,5,1
+uk americana,6,1
+power pop,13,2
+experimental bass,7,1
+outsider,7,1
+bedroom pop,5,1
+black noise,7,1
+classic canadian rock,11,2
+dark black metal,30,4
+french black metal,13,2
+motown,6,1
+german metal,5,1
+german thrash metal,5,1
+melodic thrash,5,1
+deep melodic euro house,8,1
+deep techno,8,1
+vancouver punk,5,1
+banda,6,1
+corrido,6,1
+deep regional mexican,6,1
+duranguense,6,1
+grupera,6,1
+norteno,6,1
+regional mexican,6,1
+regional mexican pop,6,1
+miami metal,15,2
+blues,7,1
+electric blues,7,1
+jazz blues,7,1
+louisiana blues,7,1
+new orleans blues,7,1
+piano blues,7,1
+technical groove,6,1
+el paso indie,7,1
+albuquerque indie,11,2
+portland indie,5,1
+nwothm,8,1
+retro metal,15,2
+denver indie,4,1
+american shoegaze,5,1
+canadian folk,5,1
+canadian singer-songwriter,10,2
+british indie rock,5,1
+jangle pop,6,1
+ohio indie,6,1
+progressive black metal,8,1
+chillhop,6,1
+japanese chillhop,6,1
+polish ambient,7,1
+polish experimental electronic,7,1
+c86,22,3
+garage punk,6,1
+florida death metal,7,1
+montana indie,5,1
+necrogrind,8,1
+black death,8,1
+k-pop girl group,12,2
+alternative roots rock,7,1
+geek rock,5,1
+essex indie,7,1
+nz metal,7,1
+jam band,5,1
+indie dream pop,14,2
+north carolina indie,7,1
+drama,6,1
+latin christian,5,1
+rock cristiano,5,1
+old school hip hop,9,1
+socal pop punk,7,1
+boston hip hop,8,1
+dungeon synth,10,2
+melodic black metal,6,1
+acoustic pop,3,1
+anthem worship,3,1
+ccm,3,1
+christian music,3,1
+indiecoustica,3,1
+roots worship,3,1
+world worship,3,1
+worship,3,1
+maine indie,7,1
+afrobeat,13,2
+afropop,8,1
+bboy,8,1
+brass band,8,1
+instrumental funk,13,2
+modern funk,8,1
+world,8,1
+hollywood,3,1
+movie tunes,3,1
+mashup,8,1
+pittsburgh indie,8,1
+atmospheric doom,8,1
+abstract idm,8,1
+math pop,5,1
+swedish black metal,14,2
+ethio-jazz,5,1
+instrumental soul,5,1
+abstract beats,6,1
+berlin school,6,1
+lund indie,8,1
+birthday,6,1
