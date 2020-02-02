@@ -35,9 +35,9 @@ with open(fantano_file, encoding="utf8") as f:
 
             spotResult = sp.search(artist, type="artist", limit=1)
             if len(spotResult['artists']['items']) == 0:
-            	print(artist, '  no search results')
+            	# print(artist, '  no search results')
             	continue
-            print(artist)
+            # print(artist)
             # print(artist, spotResult['artists']['items'][0]['genres'])
             for genre in spotResult['artists']['items'][0]['genres']:
             	if genre not in genreDict:
