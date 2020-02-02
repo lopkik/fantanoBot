@@ -42,6 +42,8 @@ while True:
         break
 
     album_id = sp.search(new_album, type = 'album', limit = 1)['albums']['items'][0]['id']
+    album_name = sp.search(new_album, type = 'album', limit = 1)['albums']['items'][0]['name']
+    album_artists = sp.search(new_album, type = 'album', limit = 1)['albums']['items'][0]['artists']
 
     album_file = './albums_rating.csv'
 
@@ -66,9 +68,10 @@ while True:
         dictAvgFeat = {x:sum(y)/len(y) for x, y in dictAvgFeat.items()}
         f.write("%s,%s,%s,%s,%s,%s,%s\n"%(dictAvgFeat['acousticness'],dictAvgFeat['danceability'],dictAvgFeat['energy'],dictAvgFeat['instrumentalness'],dictAvgFeat['liveness'],dictAvgFeat['speechiness'],dictAvgFeat['valence']))
 
-    print(album_file)
+    # print(album_file)
     input_data = pd.read_csv(album_file)
     input_X = input_data[fantano_features]
     pred_score = fantano_model.predict(input_X)
 
-    print("WOW, ", pred_score)
+    final_artists = [artist['name'] for artist in album_artists]
+    print(album_name, "by", ', '.join(final_artists) + ":", pred_score[0])
